@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94c4127a-38b6-452b-b0aa-dcafa707e19f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/news_operator/public/icon-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_operator/src/components/Editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_operator/src/components/FloraComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_operator/src/components/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_operator/src/components/Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_operator/src/components/ex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_operator/src/components/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_operator/src/icon-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_operator/src/style/teststyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/ImgBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/ImgBox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/components/ImgRender.js" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/components/ImgRender.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/components/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/components/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/components/News.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/components/NewsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/components/NewsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/components/NewsTempl.js" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/components/NewsTempl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/components/PostPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/components/PostPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/components/You.js" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/components/You.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_operator/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/news_operator/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db1@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db1: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db1: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db1: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="new_schema: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db1: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="new_schema: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="newsServer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/news_operator" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Pxs7fhj2xfeC0VpAIbNgUKma4c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/news_operator/public" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kirill\Desktop\newsServer\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kirill\Desktop\newsServer\news_operator\public" />
+      <recent name="C:\Users\kirill\Desktop\newsServer\news_operator\src" />
+      <recent name="C:\Users\kirill\Desktop\newsServer\news_operator\src\forEditor" />
+      <recent name="C:\Users\kirill\Desktop\newsServer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@8f7060bd" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@8f7060bd" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@68d815b7" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94c4127a-38b6-452b-b0aa-dcafa707e19f" name="Default Changelist" comment="" />
+      <created>1566826915530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566826915530</updated>
+      <workItem from="1566826916852" duration="1634000" />
+      <workItem from="1566828607528" duration="234000" />
+      <workItem from="1566828880006" duration="5576000" />
+      <workItem from="1566978468500" duration="9499000" />
+      <workItem from="1567001389604" duration="3245000" />
+      <workItem from="1567026441428" duration="2767000" />
+      <workItem from="1567032421058" duration="4679000" />
+      <workItem from="1567080367057" duration="12387000" />
+      <workItem from="1567168176567" duration="7875000" />
+      <workItem from="1567210787268" duration="7970000" />
+      <workItem from="1567252406146" duration="5083000" />
+      <workItem from="1567270569280" duration="15072000" />
+      <workItem from="1567343256574" duration="1110000" />
+      <workItem from="1567536768308" duration="4876000" />
+      <workItem from="1567610036644" duration="10563000" />
+      <workItem from="1567700832257" duration="1138000" />
+      <workItem from="1567773408882" duration="15619000" />
+      <workItem from="1567799268036" duration="4033000" />
+      <workItem from="1567851293083" duration="5987000" />
+      <workItem from="1567936119298" duration="2828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+.one {
+    width: 100px;
+    height: 100px;
+    background: black;
+}
+.two {
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+.one:hover + .two{
+    background-color: #5890ff;
+}
